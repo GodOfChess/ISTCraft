@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "yyy"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "istcraft:istdiamond"
+    },
+    "y":
+    {
+      "item": "istcraft:istcoin"
+    }
+  },
+  "result":
+  {
+    "item": "istcraft:computer",
+    "count": 1
+  }
+}

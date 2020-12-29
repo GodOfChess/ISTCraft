@@ -1,0 +1,13 @@
+modLoader="javafml" 
+loaderVersion="[32,)"
+
+[[mods]]
+modId="istcraft"
+version="1.16-1.0.0"
+displayName="ISTCraft"
+logoFile="ist.png"
+credits="ISTCraft for IST"
+authors="Ilya Korovin"
+description='''
+This is the best mode
+'''

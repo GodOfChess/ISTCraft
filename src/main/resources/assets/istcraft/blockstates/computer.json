@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "istcraft:block/computer" },
+    "facing=south": { "model": "istcraft:block/computer", "y":  180},
+    "facing=west": { "model": "istcraft:block/computer", "y":  270},
+    "facing=east": { "model": "istcraft:block/computer", "y":  90}
+  }
+}

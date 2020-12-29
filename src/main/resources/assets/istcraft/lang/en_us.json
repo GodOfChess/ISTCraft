@@ -1,0 +1,21 @@
+{
+  "item.istcraft.istcoin": "IST Coin",
+  "item.istcraft.istcoin_white": "IST Coin White",
+  "itemGroup.ISTTab": "IST Tab",
+  "block.istcraft.istblock": "IST Block",
+  "block.istcraft.computer": "IST Computer",
+  "block.istcraft.istore": "IST Ore",
+  "block.istcraft.istblock_white": "IST Block White",
+  "item.istcraft.ist_sword": "IST Sword",
+  "item.istcraft.ist_pickaxe": "IST Pickaxe",
+  "item.istcraft.ist_axe": "IST Axe",
+  "item.istcraft.ist_shovel": "IST Shovel",
+  "item.istcraft.ist_hoe": "IST Hoe",
+  "item.istcraft.istdiamond": "IST Diamond",
+  "item.istcraft.ist_helmet": "IST Helmet",
+  "item.istcraft.ist_chest": "IST Chest",
+  "item.istcraft.ist_legs": "IST Legs",
+  "item.istcraft.ist_boots": "IST Boots",
+  "item.istcraft.istcookie": "IST Cookie",
+  "entity.istcraft.alba": "Alba"
+}

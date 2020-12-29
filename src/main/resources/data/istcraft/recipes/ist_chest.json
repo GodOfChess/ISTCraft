@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x x",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "istcraft:istdiamond"
+    }
+  },
+  "result":
+  {
+    "item": "istcraft:ist_chest",
+    "count": 1
+  }
+}

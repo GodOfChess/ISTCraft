@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " xx",
+    " yx",
+    " y "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "istcraft:istdiamond"
+    },
+    "y":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "istcraft:ist_axe",
+    "count": 1
+  }
+}
